@@ -1,6 +1,6 @@
 # AMDSD
 
-This repo contains the code for implementation of the paper "Automatic Multimodal Depressive Speech Detection: A Foundation Model-Based Approach" Submitted in ICASSP 2025.
+This repo contains the codes for implementation of the paper "Automatic Multimodal Depressive Speech Detection: A Foundation Model-Based Approach" Submitted in ICASSP 2025.
 
 
 __Dataset__
